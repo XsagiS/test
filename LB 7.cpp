@@ -26,8 +26,8 @@ int main()
     cout << "Z=" << setprecision(2) << z << endl;
 
 
-    ////new 
-    cout << "Hello Git";
+    ////new 222222
+    cout << "Hello Git 2";
 
 
 }
